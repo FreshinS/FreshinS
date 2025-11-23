@@ -91,20 +91,15 @@
       <span style="color: #D000D0;">//</span> 統計データ (Memory_Dump)
     </samp>
   </h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freshins&show_icons=true&theme=radical&hide_border=true&bg_color=0a000f&title_color=d000d0&icon_color=ff00ff&text_color=8b9bb4" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freshins&layout=compact&theme=radical&hide_border=true&bg_color=0a000f&title_color=d000d0&text_color=8b9bb4" />
-  </a>
-  <div align="center">
-    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7F7rpCqGXJFPdDcLB7VYQp?utm_source=generator&theme=0" width="83%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  </div>
   <br>
 
 </div>
 <br>
 
 <div align="center">
-  <a href="https://t.me/ВАШ_TELEGRAM" target="_blank"><img src="https://img.shields.io/badge/FreshinS-8A2BE2?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/freshins" target="_blank"><img src="https://img.shields.io/badge/FreshinS-8A2BE2?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   <br><br>
   <p>
     <samp style="color: #666;">
