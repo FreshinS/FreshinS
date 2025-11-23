@@ -4,7 +4,7 @@
       S Y S T E M _ <span style="color: #D000D0;">D E C A Y</span>
     </samp>
   </h1>
-  <img src="https://media1.tenor.com/m/Y2hi8G0Szw8AAAAd/sewerslvt-jvnko.gif" width="35%" style="border-radius: 0px; filter: grayscale(20%) contrast(120%) brightness(80%); border: 1px solid #8A2BE2;" alt="System Failure">
+  <img src="sewerslvt.gif" width="35%" style="border-radius: 0px; filter: grayscale(20%) contrast(120%) brightness(80%); border: 1px solid #8A2BE2;" alt="System Failure">
   <p>
     <samp>
       [ <span style="color: #8c33dfff;">Back_End</span> // <span style="color: #7d20d4ff;">Front_End</span> // <span style="color: #720dcfff;">Void_Architect</span> ]
